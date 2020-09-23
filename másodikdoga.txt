@@ -1,0 +1,22 @@
+b
+mit jelent a <!DOCKTYPE html> elem?
+a dokumentum tipus definició mondja meg a böngészönek hogy a htmlnek melyik verziolyát fogjuk használni.
+
+
+hogyan definiáljuk a belső stilust a head elemben?
+<style>
+    p {
+        color: red;
+    }
+</style>
+<link rel="stylesheet" href="kulso" />
+
+
+
+emmet utasitás átírása: p>({példa: }+span{ez itt egy példa}+{az emmet-röl.})
+
+
+
+
+
+
